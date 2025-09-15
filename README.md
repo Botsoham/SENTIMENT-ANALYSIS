@@ -102,5 +102,9 @@ Key steps include:
 
 ##  🔹 OUTPUT
 
-
+<img width="610" height="248" alt="Image" src="https://github.com/user-attachments/assets/fd7d30a7-5d99-4c3a-a530-c38f346ae299" />
+<img width="366" height="168" alt="Image" src="https://github.com/user-attachments/assets/4c23e448-e2bb-4a3d-8557-e8121a3b53d7" />
+<img width="1081" height="482" alt="Image" src="https://github.com/user-attachments/assets/853eff04-0962-4686-af97-2444f2d1cf01" />
+<img width="811" height="257" alt="Image" src="https://github.com/user-attachments/assets/cfaea15d-0eaf-4ea5-aee7-ed53b510bf33" />
+<img width="478" height="244" alt="Image" src="https://github.com/user-attachments/assets/69e76566-6c48-411c-bc4d-1adf56df870e" />
 
